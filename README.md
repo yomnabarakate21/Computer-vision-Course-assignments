@@ -9,8 +9,10 @@ should become much more distinct. We will detect edges and smooth the flat areas
 enhanced edges back on top to produce a cartoon or comic book effect.
 
 ## The original Image:
-![Image of Yaktocat](https://drive.google.com/open?id=1MtnU0AWbE32T7Ix22D__r6K2OHM9LrOz)
+![Image of Yaktocat](./Images/original.png)
 
 
 ## Result Image:
-![Image result](https://drive.google.com/open?id=1cRIPzG99arZD3rF9XK8B0D373oS_wT60)
+![Image result](./Images/result.png)
+
+------------------------------------------------------------------
