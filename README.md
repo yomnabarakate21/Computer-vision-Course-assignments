@@ -10,10 +10,9 @@ enhanced edges back on top to produce a cartoon or comic book effect.
 
 ## The original Image:
 ![Image of Yaktocat]
-
+(https://drive.google.com/open?id=1MtnU0AWbE32T7Ix22D__r6K2OHM9LrOz)
 
 
 ## Result Image:
 ![Image result]
-
-https://drive.google.com/open?id=1cRIPzG99arZD3rF9XK8B0D373oS_wT60
+(https://drive.google.com/open?id=1cRIPzG99arZD3rF9XK8B0D373oS_wT60)
