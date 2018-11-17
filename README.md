@@ -9,10 +9,10 @@ should become much more distinct. We will detect edges and smooth the flat areas
 enhanced edges back on top to produce a cartoon or comic book effect.
 
 ## The original Image:
-![Image of Yaktocat](./Images/original.png)
+![original](./Images/Cartoonifier/original.png)
 
 
 ## Result Image:
-![Image result](./Images/result.png)
+![result](./Images/Cartoonifier/result.png)
 
 ------------------------------------------------------------------
