@@ -16,3 +16,19 @@ enhanced edges back on top to produce a cartoon or comic book effect.
 ![result](./Images/Cartoonifier/result.png)
 
 ------------------------------------------------------------------
+# Assignment Two (Coin Detecion)
+The objective of this problem set is the detection of circular coins in an image using Hough
+Transform. This task can be subdivided into the following procedures:
+1. The image is smoothed in order to reduce the amount of noise.
+2. An edge detection procedure is implemented.
+3. A circular Hough transform is used for circle detection.
+4. Coins classification based on the radius of the detected circle.
+
+## The original Image:
+![original](./Images/Coins_detector/readme_pics/original.png)
+
+
+## Result Image:
+![result](./Images/Coins_detector/readme_pics/result.png)
+
+--------------------------------------------------------------------
