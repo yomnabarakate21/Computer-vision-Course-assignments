@@ -1,5 +1,5 @@
 # Computer-vision-Course-assignment
-This repo is the combination of all assignments in the Computer vision course CC490N.
+This repo is the combination of some assignments in the Computer vision course CC490N.
 
 # Assignment one ( Image Cartoonifier)
 we want to make the real-world images look like they are genuinely from
